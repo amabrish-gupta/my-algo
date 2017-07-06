@@ -1,11 +1,12 @@
-package rock;
+package algo.solutions;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
 
 /**
- * Created by ambarishkumar on 06/07/2017 AD.
+ * @author: ambarishkumar
+ * @Since: 06/07/2017 AD.
  */
 public class BreadthFirstSearch {
     static int distance[];
