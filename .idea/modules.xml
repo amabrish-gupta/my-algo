@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/my-algo.iml" filepath="$PROJECT_DIR$/.idea/my-algo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/my-algo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/my-algo_main.iml" group="my-algo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/my-algo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/my-algo_test.iml" group="my-algo" />
     </modules>
   </component>
 </project>
